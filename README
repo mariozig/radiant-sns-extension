@@ -94,7 +94,7 @@ There are a number of interesting benefits gained by this approach:
       rake radiant:extensions:sns:migrate
 
 3.  Copy the needed images into Radiant's /public/images directory using:
-      rake radiant:extensions:sn:update
+      rake radiant:extensions:sns:update
 
 4.  (Optional) Configure your stylesheet and javascript directories.  By default
     The Styles 'n Scripts serves your stylesheets and javascripts out of the
